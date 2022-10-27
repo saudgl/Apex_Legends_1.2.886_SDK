@@ -1,4 +1,4 @@
-# Apex_Legends_1.2.886_SDK FOR IOS only
+# Apex Legends 1.2.886 SDK FOR IOS only
 Apex legends v 1.2.886 sdk for IOS ( iphone - ipad ) only
 
 
